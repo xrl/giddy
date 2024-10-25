@@ -1,0 +1,10 @@
+[package]
+name = "giddy"
+description = "For when your code is just too excited to contain itself"
+license = "MIT"
+homepage = "https://github.com/xrl/giddy"
+repository = "https://github.com/xrl/giddy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
